@@ -8,12 +8,22 @@ To design and construct a inverting, non- inverting and differential amplifiers.
 
 # THEORY:
 Op-amp in open-loop configuration has a very few application because of its enormous open- loop gain. Controlled gain can be can be achieved by taking a part of output signal to the input with the help of feedback. This is called as Closed- Loop Configuration. The three basic types of closed-loop amplifier configuration are:
-Inverting amplifier.
+1. Inverting amplifier.
+2. Non-inverting amplifier.
+3. Differential amplifier.
 The entire configuration can be operated with either AC or DC input.
 
 # INVERTING AMPLIFIER:
 This is the most widely used op-amp. Here, the output voltage Vo is feedback to the inverting input terminal through the Rf – R1 network. The negative sign in gain indicates the phase shift of 180ο.
 The circuit closed-loop voltage gain is Avcl= -RF / R1
+
+# NON - INVERTING AMPLIFIER:
+If signal is applied to the non-inverting input terminal of op-amp without inverting the input signal such a circuit is called non-inverting amplifier. Here the output is feedback to the inverting input terminal. The phase shift of input signal does not occur in non-inverting terminal.
+The circuit closed-loop voltage gain is ACL = 1 + ( RF / R1)
+
+# DIFFERENTIAL AMPLIFIER
+A circuit that amplifies that amplifies the difference between two input signals is called as differential amplifier. It is useful in instrumentation amplifier. If the two input signals are the same, the output should be zero. Differential amplifier with a single op-amp has the exact gain of an inverting amplifier and it is given as
+AV=Vd/V2-V1=-Rf/Ri
 
 # PROCEDURE:
 1. Select R1 as a constant value and choose a value of Rf.
@@ -32,6 +42,20 @@ The circuit closed-loop voltage gain is Avcl= -RF / R1
 
 # MODEL GRAPH:
 <img width="450" height="228" alt="image" src="https://github.com/user-attachments/assets/235f4402-0bee-42b7-80de-38055bb37b2c" />
+
+# CIRCUIT DIAGRAM:
+# NON-INVERTING AMPLIFIER:
+<img width="451" height="254" alt="image" src="https://github.com/user-attachments/assets/a13892d7-98ac-47f5-a46d-0ec4474ed449" />
+
+# MODEL GRAPH:
+# NON-INVERTING AMPLIFIER
+<img width="421" height="217" alt="image" src="https://github.com/user-attachments/assets/acb72459-bb16-44df-9cb8-b8bbfb5213fe" />
+
+# CIRCUIT DIAGRAM: DIFFERENTIAL AMPLIFIER
+<img width="453" height="335" alt="image" src="https://github.com/user-attachments/assets/9de2e6f0-5af0-444c-8c7f-25ee4b922fa4" />
+
+# MODEL GRAPH:
+<img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/a41aaf0b-11ac-4694-9366-34c0028075c3" />
 
 # DESIGN:
 
