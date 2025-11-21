@@ -68,7 +68,7 @@ AV=Vd/V2-V1=-Rf/Ri
 # THEORETICAL CALCULATION:
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/943447c3-2c27-4534-bc6f-26e647eee630" />
 # GRAPH:
-<img width="1080" height="479" alt="image" src="https://github.com/user-attachments/assets/740094b1-6b93-44d3-8f7a-9cf1d1cba994" />
-# RESULT:
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5bd97f46-8cf8-411b-baff-84b1ca92114c" />
+# RESULT:
+<img width="1080" height="479" alt="image" src="https://github.com/user-attachments/assets/740094b1-6b93-44d3-8f7a-9cf1d1cba994" />
 
