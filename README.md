@@ -58,11 +58,17 @@ AV=Vd/V2-V1=-Rf/Ri
 <img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/a41aaf0b-11ac-4694-9366-34c0028075c3" />
 
 # DESIGN:
+<img width="1280" height="489" alt="image" src="https://github.com/user-attachments/assets/54563e3c-b54b-48f2-afec-7eb4837c9037" />
+<img width="1280" height="635" alt="image" src="https://github.com/user-attachments/assets/97be3c80-1246-439c-a1ac-22c1332f089d" />
 
 # TABULATION:
-
+<img width="1280" height="791" alt="image" src="https://github.com/user-attachments/assets/bae46768-d8f8-4178-96a2-f179e46e9536" />
+<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/da0b4823-c1fc-4d06-85aa-adbdbc2420b6" />
+<img width="1211" height="790" alt="image" src="https://github.com/user-attachments/assets/ae639dd6-160f-4981-bbc3-c36b56fe0fd0" />
 # THEORETICAL CALCULATION:
-
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/943447c3-2c27-4534-bc6f-26e647eee630" />
 # GRAPH:
-
+<img width="1080" height="479" alt="image" src="https://github.com/user-attachments/assets/740094b1-6b93-44d3-8f7a-9cf1d1cba994" />
 # RESULT:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5bd97f46-8cf8-411b-baff-84b1ca92114c" />
+
